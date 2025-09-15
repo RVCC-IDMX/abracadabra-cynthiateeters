@@ -36,7 +36,7 @@ Add these exact scripts to your package.json:
 ```
 
 ### Evidence required
-Create a folder called `evidence/spec-1/` in your project root and include:
+Create a folder called `docs/evidence/spec-1/` in your project root and include:
 
 1. **terminal-npm-init.png** - Screenshot showing `npm init -y` command and output
 2. **terminal-install-deps.png** - Screenshot showing installation of cowsay and http-server

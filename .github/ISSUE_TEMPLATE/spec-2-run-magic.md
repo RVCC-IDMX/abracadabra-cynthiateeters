@@ -40,7 +40,7 @@ Execute the npm development workflow to completely transform your boring corpora
 
 ### Evidence required
 
-Create a folder called `evidence/spec-2/` in your project root and include:
+Create a folder called `docs/evidence/spec-2/` in your project root and include:
 
 1. **terminal-generate.png** - Screenshot of `npm run generate` command and all output
 2. **terminal-serve.png** - Screenshot of `npm run serve` starting the server
